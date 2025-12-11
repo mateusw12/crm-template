@@ -1,0 +1,6 @@
+export enum ClientStatus {
+  ACTIVE = 'active',
+  INACTIVE = 'inactive',
+  LEAD = 'lead',
+  PROSPECT = 'prospect',
+}
